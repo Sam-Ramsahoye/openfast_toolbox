@@ -1,0 +1,2 @@
+# Include all Python files in your package
+recursive-include openfast_toolbox/VERSION
